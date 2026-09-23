@@ -1,0 +1,23 @@
+[
+    {
+        "roll": "89",
+        "name": "kvk",
+        "age": "20",
+        "department": "cse",
+        "marks": "88"
+    },
+    {
+        "roll": "50",
+        "name": "praneeth",
+        "age": "",
+        "department": "cse",
+        "marks": "88"
+    },
+    {
+        "roll": "4564",
+        "name": "kranthi kiran",
+        "age": "19",
+        "department": "cse",
+        "marks": "99"
+    }
+]
