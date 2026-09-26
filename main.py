@@ -17,7 +17,7 @@ def load_data():
     else:
         students = []
 def add_student():
-    roll = input("Enter Roll Number: ")
+    roll = input("Enter Roll Number of student: ")
 
     # Check for duplicate roll number
     for student in students:
