@@ -40,7 +40,7 @@ def add_student():
 
     students.append(student)
     save_data()
-    print("\nStudent added successfully!")
+    print("\nStudents are  added successfully!")
 
 
 def view_students():
